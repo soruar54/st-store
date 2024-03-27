@@ -1,1 +1,1 @@
-# st-store
+# sh-store
